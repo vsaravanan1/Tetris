@@ -1,2 +1,2 @@
 # Tetris
-Simplified version of the arcade game using a Raspberry Pi Pico microcontroller and the Pi Pico C sdk
+This project is a simplified version of Tetris that was made with the Raspberry Pi Pico microcontroller using the Pi Pico C sdk. A custom SPI driver file was used to write to the SSD1306 OLED display.
